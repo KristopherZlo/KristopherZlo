@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the [QuackDuck app](https://github.com/KristopherZlo/quackduck) and [OnePhrase.me](https://onephrase.me/)<br>  
+🔭 I’m currently working on the [QuackDuck app](https://github.com/KristopherZlo/quackduck) and Lecture Live Chat<br>  
 🤝 I’m open to help from anyone who’s willing to contribute.<br>  
 🌱 Currently learning how to code and expanding my knowledge of different technologies.<br>  
 ⚡ Fun fact: I have no clue how to code yet, but I’m making progress!<br>  
