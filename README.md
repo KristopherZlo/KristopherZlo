@@ -36,5 +36,3 @@ I don't promise anything to myself or to the world, but I like looking for creat
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KristopherZlo&theme=transparent&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KristopherZlo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-~/_ |_ () `/
