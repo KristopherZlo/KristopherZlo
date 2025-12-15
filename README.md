@@ -1,10 +1,31 @@
-# 💫 About Me:
-🔭 I’m currently working on the [QuackDuck app](https://github.com/KristopherZlo/quackduck) and Lecture Live Chat<br>  
-🤝 I’m open to help from anyone who’s willing to contribute.<br>  
-🌱 Currently learning how to code and expanding my knowledge of different technologies.<br>  
-⚡ Fun fact: I have no clue how to code yet, but I’m making progress!<br>  
+```text
+███████╗██╗      ██████╗ ██╗   ██╗
+╚══███╔╝██║     ██╔═══██╗╚██╗ ██╔╝
+  ███╔╝ ██║     ██║   ██║ ╚████╔╝ 
+ ███╔╝  ██║     ██║   ██║  ╚██╔╝  
+███████╗███████╗╚██████╔╝   ██║   
+╚══════╝╚══════╝ ╚═════╝    ╚═╝   
+````
 
-💬 I’m passionate about building fun and interactive projects that are both useful and entertaining. My journey as a developer is just starting, and I love diving into new challenges. While I might not be an expert yet, I’m always eager to learn and grow.
+## 💜 Hi, I'm **Zloy** 👋
+
+I don't promise anything to myself or to the world, but I like looking for creative solutions to problems.
+
+---
+
+🔮 I code, work with design, edit videos, and constantly look for ways to automate my everyday tasks.
+
+👾 I'm interested in both technical and visual aspects of projects and often work across backend, frontend, and UI.
+
+☂️ I'm open to help from anyone who's willing to contribute.
+
+🌌 I build fun and interactive projects that are useful and entertaining.
+
+🚧 **Currently working on**
+
+* **[GhostRoom](https://github.com/KristopherZlo/live-chat-vamk)**
+* **[QuackDuck](https://github.com/KristopherZlo/quackduck)**
+* **[QuackDuck (C# port)](https://github.com/KristopherZlo/quackduck-cs)**
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Creasium)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Creasium)  [![](https://visitcount.itsvg.in/api?id=KristopherZlo&icon=5&color=6)](https://visitcount.itsvg.in)  
@@ -14,3 +35,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KristopherZlo&theme=transparent&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KristopherZlo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+~/_ |_ () `/
