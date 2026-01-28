@@ -24,6 +24,7 @@ I don't promise anything to myself or to the world, but I like looking for creat
 🚧 **Currently working on**
 
 * **[GhostRoom](https://github.com/KristopherZlo/live-chat-vamk)**
+* **[Waasabi](https://github.com/KristopherZlo/waasabi)**
 * **[QuackDuck](https://github.com/KristopherZlo/quackduck)**
 * **[QuackDuck (C# port)](https://github.com/KristopherZlo/quackduck-cs)**
 
