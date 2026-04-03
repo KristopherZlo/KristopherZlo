@@ -23,10 +23,10 @@ I don't promise anything to myself or to the world, but I like looking for creat
 
 🚧 **Currently working on**
 
+* **[Snag](https://github.com/KristopherZlo/snag)**
 * **[GhostRoom](https://github.com/KristopherZlo/live-chat-vamk)**
 * **[Waasabi](https://github.com/KristopherZlo/waasabi)**
 * **[QuackDuck](https://github.com/KristopherZlo/quackduck)**
-* **[QuackDuck (C# port)](https://github.com/KristopherZlo/quackduck-cs)**
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Creasium)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Creasium)  [![](https://visitcount.itsvg.in/api?id=KristopherZlo&icon=5&color=6)](https://visitcount.itsvg.in)  
