@@ -23,6 +23,7 @@ I don't promise anything to myself or to the world, but I like looking for creat
 
 🚧 **Currently working on**
 
+* **[Lumi](https://github.com/KristopherZlo/lumi)**
 * **[Snag](https://github.com/KristopherZlo/snag)**
 * **[GhostRoom](https://github.com/KristopherZlo/live-chat-vamk)**
 * **[Waasabi](https://github.com/KristopherZlo/waasabi)**
